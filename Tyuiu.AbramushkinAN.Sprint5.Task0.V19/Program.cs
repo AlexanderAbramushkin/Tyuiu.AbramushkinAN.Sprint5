@@ -11,7 +11,7 @@ namespace Tyuiu.AbramushkinAN.Sprint5.Task0.V19
             Console.Title = "Спринт #5 | Выполнил: Абрамушкин А. Н. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
-            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
+            Console.WriteLine("* Тема: Класс File. Запись данных в текстовый файл                        *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #19                                                             *");
             Console.WriteLine("* Выполнил: Абрамушкин Александр Николаевич | ИИПб-24-2                   *");
