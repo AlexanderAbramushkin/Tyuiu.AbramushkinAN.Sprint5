@@ -14,4 +14,5 @@ namespace Tyuiu.AbramushkinAN.Sprint5.Task5.V13.Test
             FileInfo fileInfo = new FileInfo(path);
             Assert.IsTrue(fileInfo.Exists);
         }
+    }
 }
