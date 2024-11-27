@@ -20,8 +20,11 @@ namespace Tyuiu.AbramushkinAN.Sprint5.Task5.V13.Lib
 
             foreach (double number in numbers)
             {
-                res += number;
-                count++;
+                if (number >= -1.5 && number <= 1.5)
+                {
+                    res += number;
+                    count++;
+                }
             }
 
             return Math.Round(res / count,3);
